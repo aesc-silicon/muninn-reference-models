@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2026 aesc silicon
+#
+# SPDX-License-Identifier: Apache-2.0
+
+# reference host environment (see Containerfile); tmu 0.7.1 needs NumPy 1.x
+numpy==1.26.4
+scikit-learn==1.5.2
+pytest==8.3.3
+tmu==0.7.1
